@@ -1,24 +1,20 @@
-# Hi, I'm Aftab Ahmed Bashir 👋
-### IT Support Professional | CCNA, Network+, A+ Certified
+Hi, I'm Aftab Ahmed 👋
+IT Support Professional | CCNA, Network+, A+ Certified
+I am a dedicated professional with a background in the NHS, bringing a high level of discipline and a service-oriented work ethic to IT Support. I am looking to join a team where I can provide immediate value while growing into a permanent technical asset.
 
-I am a dedicated professional with a background in the **NHS**, bringing a high level of commitment, discipline, and a public-service work ethic to IT Support. I am looking to join a team where I can provide immediate value in first-line support while growng into a long-term technical specialist.
+🏆 Professional Profile & Commitment
+NHS Foundation: Proven discipline and reliability from a background in high-pressure public service.
 
----
+Long-Term Stability: Fully committed to growing within a dedicated IT team and becoming a cornerstone of the department.
 
-## 🛠️ Technical Skill Set & Commitment
-* **Certifications:** CCNA (Passed), CompTIA Network+, CompTIA A+ (M3)
-* **Microsoft 365:** Focused on user administration, Exchange, and Teams to support modern business workflows.
-* **The "Hired Gun" Lab:** I operate a **20-node Cisco Modeling Labs (CML)** environment on a **64GB RAM** workstation to master enterprise scenarios.
-* **Documentation & GIT:** Using GIT to track my automation progress in Python and Ansible, ensuring all network changes are documented and auditable.
+Technical Foundation: CCNA, Network+, and A+ certified professional ready to handle first-line challenges.
 
-## 🚀 My Value to Your Team
-* **NHS-Level Dedication:** I understand the importance of uptime and reliability in critical environments.
-* **Continuous Growth:** I am currently integrating **Python automation** (Udemy) with my lab nodes to bring efficiency to repetitive support tasks.
-* **Infrastructure Ready:** My goal is to build a career within the team, advancing through **CCNP Enterprise** to provide high-level architectural value.
+Professional Home Lab: I maintain a Cisco Modeling Labs (CML) environment to stay current with enterprise-scale troubleshooting and Microsoft 365 administration.
 
----
-### 🤝 Why Hire Me?
-I don't just solve tickets; I study the underlying systems. Whether it is troubleshooting a workstation or automating a VLAN deployment in my home lab, I am committed to technical excellence and long-term growth within a professional IT department.
+Service Excellence: Focused on delivering rapid, high-quality resolutions with a professional and helpful approach to every user request.
+
+🤝 Professional Goal
+My objective is to secure a role within an IT department where my dedication to service and my technical training can contribute to the team's long-term success. I am committed to continuous improvement and providing stable, reliable support to the organization.
 
 <!--
 **Barry16480/Barry16480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
