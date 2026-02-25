@@ -1,7 +1,7 @@
-# Hi, I'm Barry 👋
+# Hi, I'm Aftab Ahmed Bashir 👋
 ### IT Support Professional | CCNA, Network+, A+ Certified
 
-I am a dedicated professional with a background in the **NHS**, bringing a high level of commitment, discipline, and a public-service work ethic to IT Support. I am looking to join a team where I can provide immediate value in first-line support while growing into a long-term technical specialist.
+I am a dedicated professional with a background in the **NHS**, bringing a high level of commitment, discipline, and a public-service work ethic to IT Support. I am looking to join a team where I can provide immediate value in first-line support while growng into a long-term technical specialist.
 
 ---
 
